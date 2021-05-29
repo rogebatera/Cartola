@@ -19,7 +19,7 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" 
           aria-haspopup="true" aria-expanded="false">Cadastro <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Jogador</a></li>
+            <li><a href="<?php echo base_url('jogador/'); ?>">Jogador</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="#">Controle Cartola</a></li>
             <li role="separator" class="divider"></li>
