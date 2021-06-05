@@ -89,7 +89,7 @@
                             <input  type="hidden" id="envio_cod_setor" name="envio_cod_setor" value="">
                             <input  type="hidden" id="envio_cod_prod" name="envio_cod_prod" value="">
                             <button type="button" class="btn btn-success" id="proces_input" onClick="return inserirControleRodada()"> Gravar </button>
-                            <button type="button" class="btn btn-warning" onClick="limparControleRodada()"> Limpar Tela </button>
+                            <button type="button" class="btn btn-warning" onClick="limpar()"> Limpar Tela </button>
                         </div>
                     </div>
 

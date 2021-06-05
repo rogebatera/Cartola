@@ -25,7 +25,7 @@
             <li role="separator" class="divider"></li>
             <li><a href="<?php echo base_url('controle_rodada/'); ?>">Pontuação Rodada</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="#">Pagamento</a></li>
+            <li><a href="<?php echo base_url('pagamento/'); ?>">Pagamento</a></li>
           </ul>
         </li>
              
